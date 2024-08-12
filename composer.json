@@ -3,6 +3,11 @@
     "license": "MIT",
     "type": "library",
     "description" : "GoogleTagManager Apps",
+    "keywords": ["laravel", "google tag manager", "gtm", "google", "tag", "manager", "ecommerce", "tracking", "tracking code", "tracking script", "tracking pixel", "tracking tag", "tracking code", "tracking script", "tracking pixel", "tracking tag"],
+    "suggest": {
+        "laravel/framework": "The Laravel Framework.",
+        "phpunit/phpunit": "The PHP Unit Testing Framework."
+    },
     "authors": [
         {
             "name": "Steven",
@@ -36,5 +41,5 @@
         }
     },
     "homepage": "https://nexamerchant.github.io/docs/",
-    "minimum-stability": "dev"
+    "minimum-stability": "stable"
 }
