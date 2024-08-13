@@ -48,6 +48,8 @@ return [
      */
     'homepage' => 'https://github.com/xxl4',
 
+    'composer' => "composer require nexa-merchant/googletagmanager",
+
     /**
      * 
      * The keywords of the package
