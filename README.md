@@ -17,6 +17,10 @@ composer require nexa-merchant/googletagmanager
 # How to Use
 
 ```
+1、Register a Google Tag Manager account
+2、Get the container ID
+3、Add the following code to the head tag of the page
+
 {!! GoogleTagManager::head() !!}
 ```
 
