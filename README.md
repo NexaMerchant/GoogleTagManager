@@ -1,5 +1,16 @@
 # NexaMerchant/GoogleTagManager
 
+> Nexa Merchant Google Tag Manager
+
+
+
+[![Build Status](https://github.com/NexaMerchant/googletagmanager/workflows/Laravel/badge.svg)](https://github.com/NexaMerchant/googletagmanager)
+[![Release](https://img.shields.io/github/release/NexaMerchant/googletagmanager.svg?style=flat-square)](https://github.com/NexaMerchant/googletagmanager/releases)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/Nexa-Merchant/googletagmanager.svg?style=flat-square)](https://packagist.org/packages/Nexa-Merchant/googletagmanager)
+[![Total Downloads](https://img.shields.io/packagist/dt/Nexa-Merchant/googletagmanager.svg?style=flat-square)](https://packagist.org/packages/Nexa-Merchant/googletagmanager)
+[![Software License](https://img.shields.io/packagist/l/Nexa-Merchant/googletagmanager.svg?style=flat-square)](LICENSE.md)
+
+
 # How to Install
 
 
